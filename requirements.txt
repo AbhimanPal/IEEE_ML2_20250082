@@ -1,0 +1,10 @@
+torch
+sentence-transformers
+faiss-cpu
+datasets
+numpy
+pandas
+tqdm
+ranx
+rank-bm25
+scikit-learn
